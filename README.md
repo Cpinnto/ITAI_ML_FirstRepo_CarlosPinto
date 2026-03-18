@@ -26,7 +26,8 @@ The objective of this project is to perform a complete Data Science workflow (ED
 ### 👥 Group 3 Members
 * **Carlos Pinto**
 * **Imran Khan**
-* (Agrega aquí los nombres de tus otros compañeros)
+* **Evan Gibson**
+* **Jorge Peguero** 
 
 ---
-*Note: This project is part of the ITAI Machine Learning curriculum - March 2026.*
+
