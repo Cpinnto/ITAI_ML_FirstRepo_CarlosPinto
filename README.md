@@ -1,71 +1,35 @@
-# ITAI\_ML\_FirstRepo\_ImranKhan
+# 🚀 Midterm Project: Medical Cost Prediction
+## 👥 Group 3 - Submission Repository
 
+This repository contains the final Midterm Project for our Machine Learning course. While this is a fork of the original learning repo, it has been specifically updated to host our group's final deliverables.
 
-
-\# 🧠 Machine Learning – Learning Repo
-
-
-
-This repository is for my machine learning class and documents my journey as I start learning the basics of \*\*machine\*\* learning.\[web:50]\[web:55] The main goal is to practice core ideas step by step and get comfortable thinking about data, models, and how computers can learn from examples.\[web:49]\[web:52]
-
-
+### 📂 Final Submission Folder
+All project documents are organized within the:
+👉 **[Midterm_Final_Submission](./Midterm_Final_Submission)** folder.
 
 ---
 
+### 🎯 Project Goal
+The objective of this project is to perform a complete Data Science workflow (EDA, Cleaning, and Preprocessing) on the **Annual Medical Cost** dataset to prepare it for machine learning modeling.
 
-
-\## 🎯 Goal
-
-
-
-The purpose of this repo is simple: to have a place where I can experiment, make mistakes, and grow while learning machine learning concepts over time.\[web:50]\[web:48] It is not meant to be a polished library, but a learning space that shows my progress as a student.\[web:44]
-
-
-
----
-
-
-
-
-
-## 📚 What's Inside
-
-- **Jupyter Notebooks**: Core ML concepts with hands-on examples and visualizations
-- **Data Analysis & Visualization**: MatPlotLib and Pandas for exploratory data analysis
-- **AI in Cybersecurity**: Selected labs exploring ML applications in threat detection and security analysis
-- **Class Assignments**: Problem sets and exercises demonstrating core competencies
+### 📦 What's Inside the Submission Folder
+* **Jupyter Notebook:** `Group3_Midterm_Notebook.ipynb` (Full code & analysis).
+* **Project Proposal:** `Group3_Project_Proposal_IPO.pdf` (Structural design).
+* **Reflection Journal:** `Group3_Reflection_Journal.pdf` (Team contributions).
+* **Datasets:** Original raw data and the final processed CSV.
+* **Assets:** Institutional logos for notebook rendering.
 
 ---
 
-## 🛠️ Technologies & Tools
+### 🛠️ Technologies Used
+* **Language:** Python 3
+* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn
+* **Tools:** Jupyter Notebook / Google Colab
 
-- **Python 3** | **Jupyter Notebook** | **Anaconda**
-- **Libraries**: Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib
-- **Concepts**: Supervised/Unsupervised Learning, Neural Networks, Data Preprocessing
-
----
-
-## 🔒 Cybersecurity Integration
-
-Select notebooks and labs demonstrate how machine learning powers real-world security solutions:
-- Anomaly detection for network intrusion identification
-- Classification models for threat categorization
-- Feature engineering for security datasets
+### 👥 Group 3 Members
+* **Carlos Pinto**
+* **Imran Khan**
+* (Agrega aquí los nombres de tus otros compañeros)
 
 ---
-
-## 📈 Progress & Learning
-
-This repo evolves as I progress through my coursework. Each notebook is tagged with the concepts it covers, making it easy to track my growth from fundamentals to more advanced topics.
-
----
-
-## 🎯 Next Steps
-
-- Deploy a trained ML model for practical application
-- Expand cybersecurity labs with real-world datasets
-- Build an end-to-end ML pipeline from data ingestion to model evaluation
-
----
-
-*Last Updated: January 2026 | AI & Robotics Major @ Houston City College*
+*Note: This project is part of the ITAI Machine Learning curriculum - March 2026.*
