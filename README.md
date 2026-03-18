@@ -3,9 +3,6 @@
 
 This repository contains the final Midterm Project for our Machine Learning course. While this is a fork of the original learning repo, it has been specifically updated to host our group's final deliverables.
 
-### 📂 Final Submission Folder
-All project documents are organized within the:
-👉 **[Midterm_Final_Submission](./Midterm_Final_Submission)** folder.
 
 ---
 
